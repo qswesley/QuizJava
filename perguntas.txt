@@ -1,0 +1,29 @@
+Qual é a capital do Brasil?
+São Paulo
+*Brasília
+Rio de Janeiro
+Salvador
+
+Qual linguagem estamos estudando?
+Python
+JavaScript
+*Java
+PHP
+
+Quanto é 8 vezes 7?
+48
+54
+*56
+64
+
+Qual biblioteca Java permite a manipulação de arquivos com NIO?
+java.util
+java.math
+*java.nio.file
+java.net
+
+Qual estrutura permite repetir instruções em Java?
+if
+else
+*for
+switch

@@ -1,0 +1,4 @@
+===== RESULTADO FINAL =====
+Total de perguntas: 5
+Acertos: 5
+Erros: 0
